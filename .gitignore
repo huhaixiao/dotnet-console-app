@@ -1,0 +1,31 @@
+# Bin and Obj directories
+/bin/
+/obj/
+
+# Visual Studio temporary files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Package restore files
+*.nuget
+*.nupkg
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+
+# Test results
+/TestResults/
+
+# User-specific settings
+app.config.user
+AppData/
+
+# Visual Studio Code files
+.vscode/
+
+# Docker artifacts (if applicable)
+docker-compose*.yml.lock
